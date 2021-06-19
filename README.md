@@ -1,5 +1,4 @@
-# Mini project
-Image_Classification
+# Image_Classification-Machine_Learning
 A machine learning model, which is trained and tested to predict category of the image.
 
 Gathering data is done by using Bing Library, all images will be shown in a image folder by running initial codes.
